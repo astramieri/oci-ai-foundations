@@ -2,4 +2,6 @@
 
 Note-taking repository for OCI AI Foundations.
 
-[Introduction to AI](./docs/introduction_to_ai.md)
+AI Foundations
+- [Introduction to AI](./docs/introduction_to_ai.md)
+- [Task and Data](./docs/task_and_data.md)
