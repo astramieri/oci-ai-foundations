@@ -13,3 +13,4 @@ Machine Learning Foundations
 - [Introduction to ML](./docs/introduction_to_ml.md)
 - [Supervised Learning - Regression](./docs/regression.md)
 - [Supervised Learning - Classification](./docs/classification.md)
+- [Jupiter Notebooks](./docs/jupiter_notebooks.md)
