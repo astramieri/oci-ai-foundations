@@ -10,3 +10,20 @@ Why to use Anaconda ?
 - **Cross Platform Tool**: it is available for all major operating systems (Windows, Mac, or Linux)
 
 **Jupyter Notebook** is a powerful, interactive development environment, which we usually call IDE that allows you to create and share documents containing live code equations, visualizations, and narrative text. It is a very fantastic tool for prototyping data exploration and creating interactive presentations.
+
+## Machine Learning Process
+
+A typical machine learning process involves:
+1. loading data
+2. pre-processing
+3. training a model
+4. evaluating the model
+5. making predictions
+
+## Pythons Libraries
+
+**Pandas Library** is used for data manipulation and provides data structures like dataframes and series for handling data efficiently.
+
+**Scikit Learn** (sklearn) is a popular machine learning library that provides tool for data pre-processing, model training, and evaluation. 
+
+    conda install -c anaconda scikit-learn
