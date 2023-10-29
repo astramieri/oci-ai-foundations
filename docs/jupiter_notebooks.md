@@ -9,6 +9,4 @@ Why to use Anaconda ?
 - **Anaconda Navigator**: a very user-friendly interface to manage your environments, install packages, and launch Jupyter Notebooks all without needing to use the command line
 - **Cross Platform Tool**: it is available for all major operating systems (Windows, Mac, or Linux)
 
-## Jupiter Notebooks
-
-Jupyter Notebook is a powerful, interactive development environment, which we usually call IDE that allows you to create and share documents containing live code equations, visualizations, and narrative text. It is a very fantastic tool for prototyping data exploration and creating interactive presentations.
+**Jupyter Notebook** is a powerful, interactive development environment, which we usually call IDE that allows you to create and share documents containing live code equations, visualizations, and narrative text. It is a very fantastic tool for prototyping data exploration and creating interactive presentations.
