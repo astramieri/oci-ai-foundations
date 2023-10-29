@@ -1,4 +1,4 @@
-# Jupiter Notebooks
+# Jupyter Notebooks
 
 **Anaconda** is an open source distribution of Python and R for Data Science and Machine Learning. It's designed to simplify package management and deployment. It is a toolbox that comes preloaded with all the essential tools and libraries needed for data science and machine learning.
 
@@ -26,4 +26,9 @@ A typical machine learning process involves:
 
 **Scikit Learn** (sklearn) is a popular machine learning library that provides tool for data pre-processing, model training, and evaluation. 
 
+**NumPy** library is used for numerical computations and provides arrays and mathematical functions.
+
+## How to install libraries with Anaconda
+
     conda install -c anaconda scikit-learn
+    conda install -c anaconda numpy

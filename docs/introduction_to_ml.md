@@ -61,3 +61,11 @@ While ML provides a good solution for cases where the problem statement is simpl
 - high costs
 - complex data handling
 - scalability 
+
+## Standardization in ML
+
+*Standardization* is the process of transforming data so that it has mean of 0 and a standard deviation of 1. It's important in machine learning because it ensures that all features or variables are on the same scale. Preventing some features from dominating the learning process due to their largest magnitude.
+
+For example, let's say you are building a machine learning model to predict house prices, and you have two features: square footage and number of bedrooms. The square footage values ranges from 1,000 to 5,000 square feet while the number of bedrooms ranges from 1 to 6.
+
+So, in case if you don't standardize these features, the model might give more weight to a square footage because it has larger values. And this could result in an inaccurate model as the number of bedrooms might also be a significant predictor. So the standardization scales both those features to have comparable means and standard deviation and hence, allowing the model to treat them equally. 
