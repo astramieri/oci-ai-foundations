@@ -15,3 +15,4 @@ Machine Learning Foundations
 - [Supervised Learning - Classification](./docs/classification.md)
 - [Jupyter Notebooks](./docs/jupyter_notebooks.md)
 - [Unsupervised Learning](./docs/unsupervised_learning.md)
+- [Reinforcement Learning](./docs/reinforcement_learning.md)
