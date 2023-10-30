@@ -8,7 +8,7 @@ It is used for pattern recognition and predictive modeling. It works with labele
 
 Logistic regression predicts the output of a categorical dependent variable given the set of independent variables. It gives the output in the form of probabilities between 0 and 1.
 
-Logistic regression uses a sigmodal function that helps modeling **Binary Classification Problems**.
+Logistic regression uses a **Sigmodal Function** that helps modeling **Binary Classification Problems**. The sigmoidal function, often represented as the sigmoid function, has an S-shaped curve that maps any input value to an output value between 0 and 1.
 
 But why do we need logistic regression instead of linear regression? Linear regression cannot be used to model when there are outliers in the data and the output needs to be in the range 0 to 1.
 
