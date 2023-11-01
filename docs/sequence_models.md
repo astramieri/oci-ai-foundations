@@ -34,6 +34,8 @@ Types of RNNs:
 
 RNN does not perform that well when it comes to capturing long term dependencies. This is due to the vanishing gradients problem, which is overcome by using LSTM model. 
 
+*Machine Translation involves translating a sentence or a sequence of text from one language to another, which is essentially a sequence-to-sequence problem. In the Many-to-Many RNN architecture, the network takes a sequence of inputs and produces a sequence of outputs. In the context of machine translation, this means it can take a sequence of words or tokens in one language as input and generate a corresponding sequence of words or tokens in another language as output.*
+
 ## Long Short-Term Memory (LSTM) 
 
 Long Short-Term Memory (LSTM), works by using a specialized memory cell and a gating mechanisms to capture long term dependencies in the sequential data.
@@ -46,5 +48,7 @@ The core of the LSTM lies in its **gating mechanisms**, which include three gate
 - the output gate. 
 
 These gates are like the filters that control the flow of information within the LSTM cell.
+
+*Long Short-Term Memory (LSTM) Neural Networks are the sequence model of choice when it comes to handling and maintaining relevant information over long sequences, making them particularly well-suited for tasks such as language modeling, machine translation, and speech recognition.*
 
 ![LSTM](../images/lstm.png)

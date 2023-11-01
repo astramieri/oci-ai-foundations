@@ -42,6 +42,10 @@ ANN Building Blocks:
 - **Activation Function**: works on weighted sum of inputs to a neuron and produces an output
 - **Bias**: additional input to a neuron that allows certain degree of flexibility
 
+*Hidden layers in neural networks are crucial for character recognition because they enable the network to learn and extract complex features and patterns, such as edges, shapes, and curves, which are essential for recognizing characters.*
+
+*A neuron in an Artificial Neural Network is the fundamental building block responsible for performing weighted summation and applying an activation function to input data to produce an output.*
+
 ![ANN Building Blocks](../images/ann_blocks.png)
 
 ![ANN Example](../images/ann_example.png)
