@@ -16,3 +16,7 @@ Machine Learning Foundations
 - [Jupyter Notebooks](./docs/jupyter_notebooks.md)
 - [Unsupervised Learning](./docs/unsupervised_learning.md)
 - [Reinforcement Learning](./docs/reinforcement_learning.md)
+
+Deep Learning Foundations
+
+- [Introduction to DL](./docs/introduction_to_dl.md)
