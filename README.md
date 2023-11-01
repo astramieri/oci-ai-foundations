@@ -20,3 +20,5 @@ Machine Learning Foundations
 Deep Learning Foundations
 
 - [Introduction to DL](./docs/introduction_to_dl.md)
+- [DL Models - Sequence Models](./docs/sequence_models.md)
+- [DL Models - Convolutional Neural Networks](./docs/sequence_models.md)
