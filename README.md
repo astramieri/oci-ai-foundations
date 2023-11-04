@@ -27,5 +27,6 @@ Deep Learning Foundations
 Generative AI and LLM Foundations
 
 - [Introduction to Generative AI](./docs/introduction_to_generative_ai.md)
-- [Introduction to Large Language Models (LLM)](./docs/introduction_to_llm.md)
+- [Introduction to Large Language Models (LLMs)](./docs/introduction_to_llm.md)
+- [LLM and Transformer Model](./docs/llm_and_transformer.md)
 
