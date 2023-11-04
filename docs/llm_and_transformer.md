@@ -34,3 +34,5 @@ It's like model has a bird's eye view of the entire sentence and can see how all
 Transformer is a type of deep learning model that was introduced, again, in the paper [Attention Is All You Need](https://arxiv.org/abs/1706.03762), in 2017. And it differs significantly from RNN and LSTM models.
 
 Through self-attention, it allows each word in the input sequence to attend to all other words, determining the relevance and importance of each word concerning the entire sequence. It has encoded decoder architecture, where encoded processes the input sequence, whereas the decoder generates the output sequence. 
+
+![Transformers](../images/transformers.png)
