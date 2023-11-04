@@ -23,3 +23,7 @@ Deep Learning Foundations
 - [Deep Learning Models](./docs/dl_models.md)
 - [DL Models - Sequence Models](./docs/sequence_models.md)
 - [DL Models - Convolutional Neural Networks](./docs/cnn.md)
+
+Generative AI and LLM Foundations
+
+- [Introduction to Generative AI](./docs/introduction_to_generative_ai.md)
