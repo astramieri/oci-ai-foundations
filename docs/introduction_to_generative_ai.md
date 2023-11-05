@@ -8,6 +8,8 @@ Think of Generative AI as an artist who looks at a lot of paintings and learns t
 
 It is important to note that generative models are not truly creative or understanding humans as they rely on patterns in the data they were trained on and don't have emotions or personal experiences.
 
+*Generative AI is focused on creating new content or data rather than making predictions based on existing training data. It involves generating novel and meaningful outputs such as images, text, music, or other forms of creative content.*
+
 ![Generative AI](../images/generative_ai.png)
 
 ## How does generative AI works ?
