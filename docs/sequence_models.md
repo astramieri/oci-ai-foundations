@@ -18,6 +18,8 @@ Common examples of the sequence models:
 - Time Series Analysis
     - Predict future values
 
+*Sequence models are indeed well-suited for tasks involving sequentially ordered data points or events, such as time series analysis, natural language processing, speech recognition, and language translation. However, for image classification and object recognition, traditional machine learning models and convolutional neural networks (CNNs) are more commonly used.*
+
 ## Recurrent Neural Networks (RNNs)
 
 Recurrent Neural Networks (RNNs) are a class of neural network architectures specifically designed to handle sequential data. Unlike traditional feedforward neural network, RNNs have a **feedback loop** that allows information to persist across different timesteps. 

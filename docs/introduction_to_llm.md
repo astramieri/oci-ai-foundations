@@ -36,6 +36,8 @@ The **tokens** represent the individual units into which a piece of text is divi
 
 Balancing model size, parameters, and token handling is crucial when working with LLMs. 
 
+*The size and complexity of a language model, including the number of parameters (weights) and tokens have a profound impact on its capabilities and performance. Larger models with more parameters tend to have a better understanding of language and can generate more coherent and contextually relevant text. Larger models, however, require substantial computational resources, including GPUs and memory, for both training and inference.*
+
 ![LLMs](../images/llms.png)
 
 ## Bigger models are NOT always better!
