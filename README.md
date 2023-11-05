@@ -31,3 +31,4 @@ Generative AI and LLM Foundations
 - [LLM and Transformer Model](./docs/llm_and_transformer.md)
 - [Transformer Walkthrough](./docs/transformer_walkthrough.md)
 - [Prompt Engineering](./docs/prompt_engineering.md)
+- [LLM Fine Tuning](./docs/llm_fine_tuning.md)
