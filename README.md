@@ -32,3 +32,7 @@ Generative AI and LLM Foundations
 - [Transformer Walkthrough](./docs/transformer_walkthrough.md)
 - [Prompt Engineering](./docs/prompt_engineering.md)
 - [LLM Fine Tuning](./docs/llm_fine_tuning.md)
+
+OCI AI Portfolio
+
+- [AI Services](./docs/ai_services.md)
