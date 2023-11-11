@@ -36,3 +36,4 @@ Generative AI and LLM Foundations
 OCI AI Portfolio
 
 - [AI Services](./docs/ai_services.md)
+- [ML Services](./docs/ml_services.md)

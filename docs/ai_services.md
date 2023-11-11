@@ -1,5 +1,7 @@
 # AI Services
 
+Oracle AI is this portfolio of cloud services for helping organizations take advantage of all data for the next generation of scenarios. The foundations of AI services and ML services layer is data.
+
 ![Oracle AI Stack](../images/ai_services.png)
 
 OCI AI services is a collection of services with pre-built machine learning models that make it easier for developers to build a variety of business applications. The models can also be custom trained for more accurate business results.
