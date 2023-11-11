@@ -2,6 +2,8 @@
 
 OCI Data Science is the cloud service focused on serving the data scientist throughout the full machine learning life cycle with support for Python and open source.
 
+Oracle Database's Machine Learning capabilities are designed to eliminate the need to move data out of the database for Machine Learning tasks. This is a significant advantage because it reduces data latency, enhances security, and simplifies the overall architecture of data-driven applications. By providing in-database Machine Learning, Oracle empowers users to perform Machine Learning tasks directly within the database, leveraging its computational power and efficiency.
+
 ![OCI Data Sciences](../images/oci_data_science_components.png)
 
 ## CORE Principles

@@ -14,6 +14,10 @@ GPU has thousands of lightweight cores, all working on their share of data in pa
 
 GPU instances are ideally suited for model training and inference.
 
+## Super Clusters
+
+OCI AI Superclusters are specifically designed to handle demanding AI workloads that require significant computational power and scalability. They are optimized to provide high performance for complex tasks such as training large Machine Learning models, deep learning, and other compute-intensive AI tasks.
+
 ## RDMA
 
 RDMA is essentially, in a nutshell, is a technology that allows for data transfer or network communication that bypasses CPU, goes from one machine to another without any CPU interference. And this allows things like GPUs to communicate at extremely low latency, high bandwidth with low overhead from a CPU perspective. 
