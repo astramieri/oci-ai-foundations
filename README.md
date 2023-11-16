@@ -46,3 +46,4 @@ OCI AI Services
 - [OCI Speech](./docs/oci_speech.md)
 - [OCI Vision](./docs/oci_vision.md)
 - [Anomaly Detection](./docs/anomaly_detection.md)
+- [AI APIs](./docs/ai_apis.md)
