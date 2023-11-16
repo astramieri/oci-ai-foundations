@@ -45,3 +45,4 @@ OCI AI Services
 - [OCI Language](./docs/oci_language.md)
 - [OCI Speech](./docs/oci_speech.md)
 - [OCI Vision](./docs/oci_vision.md)
+- [Anomaly Detection](./docs/anomaly_detection.md)
