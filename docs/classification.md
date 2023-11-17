@@ -20,7 +20,7 @@ The building blocks of evaluation metrics used in classification is also called 
 
 Based on the four building blocks (true positive, true negative, false positive, false negative), we have three evaluation metrics:
 
-- **accuracy** is the fraction of correct predictions. It is the ratio of correct predictions to the total number of predictions
+- **accuracy** is the fraction of correct predictions (e.g. it is the ratio of correct predictions to the total number of predictions)
 
     *For class imbalanced data sets, accuracy alone is not sufficient as we have skewed class proportions. That means one or more classes in the data set may have significantly fewer examples compared to others.*
 
@@ -29,3 +29,7 @@ Based on the four building blocks (true positive, true negative, false positive,
 - **recall** computes the proportion of actual positives which was identified correctly. 
 
     *Recall helps us understand how well the system captures the positive cases without missing them. A higher recall value indicates that the system is better at identifying the positive cases.*
+
+## Accuracy vs Precision
+
+![Accuracy VS Precision](../images/accuracy_vs_precision.png)

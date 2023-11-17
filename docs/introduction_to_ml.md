@@ -16,9 +16,9 @@ ML application examples:
 
 In machine learning, the term **model training** is used to build an ML model. During the process of model training, a relationship is established between the input features and output parameters. 
 
-    y = f(X)
+    y = f(x)
 
-Feature **X** are relevant information from the available data selected to train the model. The output label **y** represents the information or prediction that the model aims to generate based on the input features.
+Feature **x** are relevant information from the available data selected to train the model. The output label **y** represents the information or prediction that the model aims to generate based on the input features.
 
 The goal is to **approximate the mapping function** so well that when you have new input data x, you can predict the output variable y for that data.
 

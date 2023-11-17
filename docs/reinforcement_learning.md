@@ -1,8 +1,8 @@
 # Reinforcement Learning
 
-*Reinforcement Learning is like teaching a dog new tricks: you reward it when it does something right, and over time, it learns to perform these actions to get more rewards.*
-
 **Reinforcement Learning** is a type of Machine Learning that enables an agent to learn from its interaction with the environment, while receiving feedback in the form of rewards or penalties without any labeled data.
+
+*Reinforcement Learning is like teaching a dog new tricks: you reward it when it does something right, and over time, it learns to perform these actions to get more rewards.*
 
 ## Use Cases
 

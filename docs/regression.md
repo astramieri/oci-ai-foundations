@@ -14,7 +14,7 @@ Supervised Learning application examples:
 
 ## Example
 
-The inputs to a supervised learning model is the input/output pair. In the figure, x is the input feature and t is the target. If we want a model to identify fruits, the training inputs would be the features of the fruits, like color, size, and shape, and the output would be the fruit label, t, which can be apple, banana, and so on.
+The inputs to a supervised learning model is the input/output pair. In the figure **x** is the input feature and t is the target. If we want a model to identify fruits, the training inputs would be the features of the fruits, like color, size, and shape, and the output would be the fruit label **t** which can be apple, banana, and so on.
 
 A model is built using these features and the relationship between the features and class labels are established. The training algorithm iteratively trains the models. During training, the model learns the mapping between the input and output. This mapping is the hypothesis. The correctness of the hypothesis is measured, and an error is compared for the training data set. Based on the error, the hypothesis parameters are fine tuned. This loop iteratively continues till the error becomes very small.
 
