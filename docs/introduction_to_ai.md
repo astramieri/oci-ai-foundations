@@ -20,22 +20,26 @@ AI Examples:
 - writing computer language code
 - predicting old car prices
 
-AI is vital in today's world, and with the amount of data that's generated, it far exceeds the human ability to absorb, interpret, and actually make decisions based on that data.
+## Role of AI
+    
+AI is vital in today's world, and with the amount of data that's generated, **AI far exceeds the human ability to absorb, interpret, and actually make decisions based on that data**.
 
 Why do we need AI ?
+
 1. Automation and Decision Making
     - Approve a credit card loan
     - Process insurance claim
     - Recommend products to customers
     - Detect fraudolent transactions
     - Classify documents and images
+
 2. Creative Support
-    - create content
-    - write stories and poem
-    - provide design
-    - share code
-    - generate ideas
-    - crack jokes
+    - Create content
+    - Write stories and poem
+    - Provide design
+    - Share code
+    - Generate ideas
+    - Crack jokes
 
 ## AI Domains and Examples
 
