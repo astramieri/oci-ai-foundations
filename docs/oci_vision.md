@@ -38,3 +38,5 @@ The features of document AI are:
 - **Key value extraction**
 
     It finds values for 13 common fields and line items in receipts, things like merchant name and transaction date. 
+
+OCI Document Understanding is a service in Oracle Cloud Infrastructure designed for automating document processing tasks, such as extracting information from documents, automating data entry, and streamlining document-based workflows. It's used for tasks such as invoice processing, form recognition, and document classification.

@@ -10,9 +10,11 @@ OCI AI Infrastructure is mainly composed of:
 
 ML and AI needs lots of repetitive computations to be made on huge amounts of data. Parallel computing on GPUs is designed for many processes at the same time. A GPU is a piece of hardware that is incredibly good in performing computations.
 
-GPU has thousands of lightweight cores, all working on their share of data in parallel. This gives them the ability to crunch through extremely large data set at tremendous speed.
+GPU has thousands of lightweight cores, all working on their share of data in parallel. This gives them the ability to crunch through extremely large data set at tremendous speed. 
 
 GPU instances are ideally suited for model training and inference.
+
+GPUs are specialized hardware designed primarily for accelerating tasks related to graphics rendering and parallel processing.
 
 ## Super Clusters
 

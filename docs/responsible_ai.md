@@ -7,12 +7,10 @@ The guiding principles for AI to be trustworthy are:
 
 ## AI Ethics Principles
 
-
 1. Respect for human autonomy
 2. Prevention of harm
 3. Fairness
 4. Explicability
-
 
 AI that follows the ethics principles is **Responsible AI**.
 
