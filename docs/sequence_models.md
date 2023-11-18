@@ -24,7 +24,7 @@ Common examples of the sequence models:
 
 Recurrent Neural Networks (RNNs) are a class of neural network architectures specifically designed to handle sequential data. Unlike traditional feedforward neural network, RNNs have a **feedback loop** that allows information to persist across different timesteps. 
 
-The key features of RNN is their ability to maintain an internal state often referred to as a *hidden state* or *memory*, which is updated as the network processes each element in the input sequence. 
+The key features of RNN is their ability to maintain an internal state often referred to as a **hidden state** or **memory**, which is updated as the network processes each element in the input sequence. 
 
 The hidden state is then used as input to the network for the next time step, allowing the model to capture dependencies and patterns in the data that are spread across time. 
 

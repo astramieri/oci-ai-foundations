@@ -52,13 +52,9 @@ ANN Building Blocks:
 
 ## How are ANNs trained ?
 
-During training, we show an image to the ANN. Let us say it is an image of digit 2. So we expect output neuron for digit 2 to fire. But in real, let us say output neuron of a digit 6 fired.
+During training, we show an image to the ANN. Let us say it is an image of digit 2. So we expect output neuron for digit 2 to fire. But in real, let us say output neuron of a digit 6 fired. So what do we do? We know that there is an error. So to correct an error, we adjust the weights of the connection between neurons based on a calculation, which we call as **Backpropagation Algorithm**. By showing thousands of images and adjusting the weights iteratively, ANN is able to predict correct outcome for most of the input images. 
 
-So what do we do? We know that there is an error. So to correct an error, we adjust the weights of the connection between neurons based on a calculation, which we call as **Backpropagation Algorithm**. 
-
-By showing thousands of images and adjusting the weights iteratively, ANN is able to predict correct outcome for most of the input images. 
-
-This process of adjusting weights through backpropagation is called as model training. 
+This process of adjusting weights through backpropagation is called as **model training**. 
 
 Backpropagation Algorithm:
 
